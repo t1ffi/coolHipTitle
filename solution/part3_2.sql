@@ -1,0 +1,1 @@
+SELECT reserved_for FROM clubready_reservations WHERE month(2);

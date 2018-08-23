@@ -1,0 +1,1 @@
+SELECT * FROM mindbody_reservations WHERE canceled_at IS NULL;

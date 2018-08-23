@@ -1,0 +1,1 @@
+SELECT COUNT(class_tag) FROM clubready_reservations WHERE reserved_for='2018-02';
